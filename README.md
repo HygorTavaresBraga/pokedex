@@ -3,7 +3,7 @@
 Projeto em **HTML/CSS/JS (Vanilla + ES Modules)** consumindo a **PokéAPI**.
 
 ## Projeto Hospedado (GitHub Pages)
-- Link: 
+- Link: https://hygortavaresbraga.github.io/pokedex/
 
 ## Requisitos para rodar localmente
 - Rodar em **servidor local** (não funciona via `file://` por causa de ES Modules)
